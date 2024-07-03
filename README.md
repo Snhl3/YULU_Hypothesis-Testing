@@ -26,6 +26,7 @@ specifically in the Indian market.
 ● workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
 
 ● weather:
+
    1: Clear, Few clouds, partly cloudy
    
    2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
